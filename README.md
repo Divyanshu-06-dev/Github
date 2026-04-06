@@ -1,4 +1,4 @@
 # Github
 This is my first repository
 <br>
-name : Divyanshu
+name : Divyanshu gupta
